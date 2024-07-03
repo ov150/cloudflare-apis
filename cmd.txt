@@ -1,0 +1,25 @@
+npm create cloudflare
+npm run deploy
+ Run the development server npm run start
+
+npm install drizzel-orm @neondatabase/serverless
+
+
+
+
+
+
+
+
+    // "db:generate": "drizzle-kit generate:pg --schema=./src/db/schema.ts"
+
+
+
+
+
+
+npm run db:generate
+
+
+npx wrangler login
+
